@@ -1,0 +1,107 @@
+.listaMenu{
+	list-style-type: none;
+	font-family:'Fjalla One', sans-serif;
+	color:#B881E8;
+	width:541px;
+	margin-left: -30px;
+}
+
+.listaMenu2{
+	list-style-type: none;
+	font-family:'Fjalla One', sans-serif;
+	color:#B881E8;
+	width:541px;
+	margin-left: -30px;
+}
+
+.itemMenu{
+	float:left;
+	text-align:center;
+	padding:10px;
+	margin:2px;
+	background-color:#d4b000;
+	border-style:dotted solid solid solid;
+	border-color:#252525;
+}
+.itemMenu:hover{
+	background-color:#a8a8a8;
+	color:#fbd312;
+}
+.itemMenu a:link{
+	text-decoration:none;
+	color:#252525;
+	padding: 10px;
+}
+.itemMenu a:hover{
+	color:#252525;
+	text-decoration:none;
+}
+.itemMenu a:visited{
+	text-decoration:none;
+	color:#252525;
+}
+
+.tudo{
+	margin:0 auto;
+	width:1000px;
+}
+.topo{
+	width:1000px;
+	height:100px;
+	background:url(../image/banner.jpg);
+	background-color:#9AFFF7;
+	
+}
+.menuH{
+	width:1000px;
+	float: left;
+	background-color:#fbd312;
+}
+.menuV{
+	width:250px;
+	height:350px;
+	background-color:#FFBC9A;
+	float:left;
+	background-image:url(../image/menu.png);
+	background-image
+}
+.conteudo{
+	width:750px;
+	height:350px;
+	background-color:#E3E881;
+	float:left;
+}
+.rodape{
+	position:relative;
+	width:1000px;
+	height:100px;
+	clear:both;
+	background-color:#fbd312;
+	background-image:url(../image/rodape.jpg);
+}
+
+.texto{
+	width:450px;
+	float:left;
+	padding:15px;
+}
+.texto h2{
+	font-family:'Indie Flower', cursive;
+	font-size:26px;
+}
+.texto p{
+	font-family:'Indie Flower', cursive;
+	font-size:16px;
+}
+
+.figuraTexto img{
+	width:80px;
+	padding:15px;
+	float:left;
+	margin-top:80px;
+}
+.figuraTexto2 img{
+	float:forceleft;
+	width:64px;
+	height:64px;
+}
